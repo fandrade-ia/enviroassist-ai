@@ -1,0 +1,6872 @@
+{
+  "Acanthodactylus erythrurus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija colirroja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Accipiter gentilis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Azor común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Accipiter nisus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gavilán común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Achondrostoma arcasii": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Bermejuela",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acipenser sturio": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Esturión",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrocephalus arundinaceus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carricero tordal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrocephalus melanopogon": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carricerín real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrocephalus paludicola": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carricerín cejudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrocephalus schoenobaenus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carricerín común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrocephalus scirpaceus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carricero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Acrostira euphorbiae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Cigarrón palo palmero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Actias isabelae": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Actitis hypoleucos": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Andarríos chico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Adenocarpus ombriosus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Codeso herreño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aegithalos caudatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mito",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aegolius funereus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Mochuelo boreal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aegypius monachus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Buitre negro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aeonium balsamiferum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Bejeque farrobo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aeonium gomerense": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Bejeque gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aeonium saundersii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Bejequillo peludo de La Gomera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aetomylaeus bovinus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya toro, Pez obispo",
+    "norma": "Orden TED/452/2025"
+  },
+  "Agriades zullichi": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Alpina de Sierra Nevada, Mariposa del Puerto del Lobo",
+    "norma": "Orden TED/452/2025"
+  },
+  "Alaudala rufescens": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Terrera marismeña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alca torda": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alca común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alcedo atthis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Martín pescador",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Algyroides hidalgoi": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija de Valverde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Algyroides marchi": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija de Valverde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Allium grosii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alopias superciliosus": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Alopias vulpinus": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Alopiidae Bonaparte,": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alyssum fastigiatum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alytes cisternasii": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo partero ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alytes dickhilleni": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo partero bético",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alytes muletensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Anfibios",
+    "nombre_comun": "Ferreret",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Alytes obstetricans": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo partero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anaecypris hispanica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Jarabugo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anagyris latifolia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Oro de risco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androcymbium europaeum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androcymbium hierrense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cebollín",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androcymbium psammophilum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cebollín estrellado de jable",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androsace cylindrica": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androsace pyrenaica": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Androsace rioxana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Androsela riojana",
+    "norma": "Orden TED/339/2023"
+  },
+  "Anguis fragilis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lución",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthirrhinum lopesianum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus berthelotii": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita caminero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus campestris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita campestre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus cervinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita gorgirrojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus petrosus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita costero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus pratensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus spinoletta": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthus trivialis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bisbita arbóreo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Anthyllis hystrix": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Antipathella subpinnata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral negro",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Antipathes dichotoma": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral negro ramificado",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Antirrhinum charidemi": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Antirrhinum lopesianum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aphanius baeticus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Salinete, Fartet atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aphanius iberus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Fartet",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apium bermejoi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Api d’En Bermejo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apium repens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aplysina Nardo,": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Aplysina aerophoba": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Aplysina cavernicola": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Aplysina sp.": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Apteranthes burchardii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cuernúa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apteromantis aptera": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apus apus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apus caffer": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo cafre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apus melba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apus pallidus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo pálido",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Apus unicolor": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo unicolor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aquila adalberti": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Águila imperial ibérica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aquila chrysaetos": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Águila real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aquila fasciata": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Águila perdicera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aquilegia paui": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Aquilegia pyrenaica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Aguileña de Cazorla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardea alba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garceta grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardea cinerea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garza real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardea purpurea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garza imperial",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardenna gravis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela capirotada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardenna grisea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela sombría",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ardeola ralloides": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Garcilla cangrejera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Arenaria alfacarensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Planta piedra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Arenaria funiculata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Arenaria interpres": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vuelvepiedras común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Arenaria nevadensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Arenaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Argyranthemum lidii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Margarita de Lid",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Argyranthemum sundingii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Magarza de Sunding",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Argyranthemum winteri": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Margarita de Jandía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Armeria euscadiensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Armeria velutina": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Artemisia granatensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Manzanilla de Sierra Nevada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asbestopluma hypogea": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asio flammeus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Búho campestre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asio otus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Búho chico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asparagus fallax": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Esparraguera de monteverde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asparagus macrorrhizus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Esparraguera del Mar Menor",
+    "norma": "Orden TED/339/2023"
+  },
+  "Asplenium hemionitis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Hierba candíl",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aster pyrenaeus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Estrella de los Pirineos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Asterina pancerii": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Estrella del capitán pequeña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Astragalus nitidiflorus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Astragalus tremolsianus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Astroides calycularis": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral naranja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Atelerix algirus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Erizo moruno",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Athene noctua": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mochuelo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Atractylis arbuscula": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cancelillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Atractylis preauxiana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Piña de mar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Atropa baetica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Tabaco gordo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Austropotamobius fulcisianus": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Cangrejo de río",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Austropotamobius pallipes": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Cangrejo de río",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Avellara fistulosa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Chicoria hueca",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Axinella cannabina": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Axinella polypoides": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aythya marila": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Porrón bastardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Aythya nyroca": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Porrón pardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Baetica ustulata": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera acutorostrata": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual aliblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera borealis": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual norteño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera edeni": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual tropical",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera edeni/brydei": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual tropical",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera musculus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual azul",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Balaenoptera physalus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Rorcual común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Barbastella barbastellus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de bosque, Barbastela",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bathytoshia lata": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya marrón",
+    "norma": "Orden TED/452/2025"
+  },
+  "Bencomia brachystachya": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Bencomia de Tirajana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bencomia exstipulata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Bencomia de cumbre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bencomia sphaerocarpa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Bencomia herreña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bethencourtia hermosae": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Turgiate gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Blanus cinereus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebrilla ciega",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Blanus tingitanus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebrilla ciega de Tánger",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Boleum asperum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Asperillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bonasa bonasia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Grévol",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Borderea chouardii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Botaurus stellaris": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Avetoro común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Botrychium matricariifolium": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Branta bernicla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Barnacla carinegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Branta leucopsis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Barnacla cariblanca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bruchia vogesiaca": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bubo bubo": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Búho real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bubulcus ibis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garcilla bueyera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bucanetes githagineus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Camachuelo trompetero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bucephala clangula": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Porrón osculado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bufo balearicus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo verde balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bufo calamita": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo corredor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bufotes viridis": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo verde balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bulweria bulwerii": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Petrel de Bulwer",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Bupleurum handiense": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Anís de Jandía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Buprestis splendens": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Burhinus oedicnemus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Alcaraván común canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Buteo buteo": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Ratonero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Buxbaumia viridis": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calandrella brachydactyla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Terrera común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calandrella rufescens": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Terrera marismeña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris alba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos tridáctilo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris alpina": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris canutus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos gordo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris ferruginea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos zarapitín",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris maritima": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos oscuro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris minuta": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos menudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris pugnax": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Combatiente",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calidris temminckii": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Correlimos de Temminck",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Callogorgia verticillata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Gorgonia abanico",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Calonectris borealis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela cenicienta atlántica",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Calonectris diomedea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela cenicienta atlántica",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Calotriton arnoldi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón del Montseny",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Calotriton asper": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón pirenaico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Candelacypris aragonica": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Canis lupus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Lobo",
+    "norma": "Ley 1/2025, de 1 de abril"
+  },
+  "Caprimulgus europaeus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chotacabras europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caprimulgus ruficollis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chotacabras pardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carabus riffensis": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caralluma burchardii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cuernúa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carcharias taurus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Tiburón toro, Toro bacota",
+    "norma": "Orden TED/452/2025"
+  },
+  "Carcharodon carcharias": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Tiburón blanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carduelis citrinella": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Verderón serrano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carduelis spinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lúgano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carduncellus dianius": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cardón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Carduus myriacanthus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caretta caretta": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga boba",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caropsis verticillato-inundata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Castor fiber": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Castor europeo",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Cathissa reverchonii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caulerpa ollivieri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Caulerpa prolifera": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cecropis daurica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Golondrina daúrica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea avilae": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Centaurea de Gredos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea boissieri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea borjae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea citricolor": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea gadorensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea pinnata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurea pulvinata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurium barrelieri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurium rigualii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Centaurium somedanum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Centaura de Somiedo",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Centrostephanus longispinus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cerambyx cerdo": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cercotrichas galactotes": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Alzacola",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cerinthe glabra": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Ceropegia chrysantha": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ceropegia dichotoma": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Certhia brachydactyla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Agateador común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Certhia familiaris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Agateador norteño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cetorhinus maximus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Tiburón peregrino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cettia cetti": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Ruiseñor bastardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides bedriagai": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Eslizón ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides colosii": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Eslizón rifeño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides pseudostriatus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Eslizón tridáctilo del Atlas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides sexlineatus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lisa grancanaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides simonyi": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lisneja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides striatus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Eslizón tridáctilo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chalcides viridanus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lisa dorada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chamaeleo chamaeleon": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Camaleón común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charadrius alexandrinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlitejo patinegro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charadrius dubius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlitejo chico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charadrius hiaticula": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlitejo grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charadrius morinellus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlito carambolo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charonia lampas": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Caracola",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charonia tritonis": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Bucio",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Charonia variegata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Bucio",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chasmatopterus zonatus": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus duranii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón herreño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus falcisectus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Güi-Güí",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus ghomerythus": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus ghomerytus": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus junonianus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Teneguía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus metlesicsii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Añavingo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus santos-abreui": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de las Nieves",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus satarataensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Sataratá",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus sventenii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Tijarafe",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cheirolophus tagananensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cabezón de Taganana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chelonia mydas": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga verde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chersophilus duponti": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Alondra de Dupont o ricotí",
+    "norma": "Orden TED/339/2023"
+  },
+  "Chilomycterus atringa": {
+    "categoria": "Vulnerable",
+    "grupo": "Peces",
+    "nombre_comun": "Tamboril espinoso",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chilomycterus reticulatus": {
+    "categoria": "Vulnerable",
+    "grupo": "Peces",
+    "nombre_comun": "Tamboril espinoso",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chioglossa lusitanica": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Salamandra rabilarga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chlamydotis undulata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Avutarda hubara",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chlidonias hybrida": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Fumarel cariblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chlidonias hybridus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Fumarel cariblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chlidonias leucopterus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Fumarel aliblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chlidonias niger": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Fumarel común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chondrostoma arcasii": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Bermejuela",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Christella dentata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Helecha",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Chroicocephalus genei": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota picofina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cicer canariense": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Garbancera canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cicer canariensis": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Garbancera canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ciconia ciconia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cigüeña blanca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ciconia nigra": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Cigüeña negra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cinclus cinclus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mirlo acuático",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Circaetus gallicus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Águila culebrera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Circus aeruginosus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Aguilucho lagunero occidental",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Circus cyaneus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Aguilucho pálido",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Circus pygargus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Aguilucho cenizo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cisticola juncidis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Buitrón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cistus chinamadensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Amagante de Chinamada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cistus heterophyllus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jara de Cartagena",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cladocora caespitosa": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Madrépora mediterránea",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Cladocora debilis": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coralito débil",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Clamator glandarius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Críalo europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coccothraustes coccothraustes": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Picogordo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coenagrion mercuriale": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coincya rupestris": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Colchicum europaeum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Columba bollii": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Paloma turqué",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Columba junoniae": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Paloma rabiche",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Convolvulus caput-medusae": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Chaparro canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Convolvulus lopezsocasi": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Corregüelón de Famara",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Convolvulus subauriculatus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Corregüelón gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coracias garrulus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carraca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coronella austriaca": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra lisa europea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coronella girondica": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra lisa meridional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Coronopus navasii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Mastuerzo de Gádor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Corvus frugilegus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Graja",
+    "norma": "Orden TED/452/2025"
+  },
+  "Cottus aturi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Burtaina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cottus hispaniolensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Cavilat",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crambe arborea": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Colderrisco de Güimar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crambe laevigata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Colderrisco de Teno",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crambe scoparia": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Colderrisco de La Aldea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crambe sventenii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Colino majorero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crepis granatensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crepis pusilla": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crex crex": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Guión de codornices",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Crocidura canariensis": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Musaraña canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cucujus cinnaberinus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cuculus canorus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cuco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Culcita macrocarpa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Helecho de colchonero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca balearica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca sarda o balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca cantillans": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca carrasqueña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca communis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca zarcera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca conspicillata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca tomillera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca curruca": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca zarcerilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca hortensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca mirlona",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca melanocephala": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca cabecinegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Curruca undata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca rabilarga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cursorius cursor": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Engaña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cyanistes caeruleus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Herrerillo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cyanopica cooki": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Rabilargo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cyanopica cyanus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Rabilargo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cymbula nigra": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cymbula safiana": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cymodocea nodosa": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Seba",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Cypripedium calceolus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Zapatito de dama, Esclops",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Cystoseira C.Agardh,1820": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Cystoseira abies-marina": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Mujo amarillo",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Cystoseira foeniculacea": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Cystoseira humilis": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Cystoseira sp.": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Cystoseira wildpretti": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Daphne alpina": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Daphne rodriguezii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Dafne menorquí",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dasyatis pastinaca": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Pastinaca, Raya látigo común, Chucho",
+    "norma": "Orden TED/452/2025"
+  },
+  "Delichon urbicum": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avión común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Delphinium bolosii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Esperó de Bolós",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Delphinium montanum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Delphinus delphis": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendriopoterium pulidoi": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Algafitón de La Aldea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrocopos leucotos": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Pico dorsiblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrocopos major": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pico picapinos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrocopos medius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pico mediano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrocopos minor": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pico menor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrocoptes medius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pico mediano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendrophyllia cornigera": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral amarillo",
+    "norma": "Orden TED/452/2025"
+  },
+  "Dendrophyllia ramea": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral naranja, Coral árbol",
+    "norma": "Orden TED/452/2025"
+  },
+  "Dendropoma lebeche": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dendropoma petraeum": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dermochelys coriacea": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga laúd",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Desmophyllum dianthus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral cresta de gallo",
+    "norma": "Orden TED/452/2025"
+  },
+  "Desmophyllum pertusum": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral blanco duro",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Dianthus rupicola": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dichoropetalum schottii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Digitalis chalcantha": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Crestagallo de Doramas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Digitalis isabelliana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Crestagallo de pinar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dioscorea chouardii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Diplazium caudatum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Helecho de sombra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Diplotaxis catholica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jaramago de Alborán",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Diplotaxis ibicensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Diplotaxis siettiana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jaramago de Alborán",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dipturus batis": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Noriega",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Discoglossus galganoi": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapillo pintojo ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Discoglossus jeanneae": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapillo pintojo meridional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Discoglossus pictus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapillo pintojo mediterráneo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dorycnium spectabile": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Trébol de risco rosado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dorysthenes forficatus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dracaena draco": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Drago",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dracaena tamaranae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Drago de Gran Canaria, Drago",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dracocephalum austriacum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dryobates minor": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pico menor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dryocopus martius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pito negro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Dryopteris corleyi": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Echinodium spinosum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Echium gentianoides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Taginaste palmero de cumbre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Echium handiense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Taginaste de Jandía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Echium pininana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Pininana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Egretta alba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garceta grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Egretta garzetta": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Garceta común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Elanus caeruleus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Elanio común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eliomys munbyanus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Lirón careto magrebí",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ellisella paraplexauroides": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Gorgonia candelabro",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Elona quimperiana": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emberiza cia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano montesino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emberiza cirlus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano soteño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emberiza citrinella": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano cerillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emberiza hortulana": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano hortelano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emberiza schoeniclus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano palustre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Emys orbicularis": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Galápago europeo",
+    "norma": "Orden TED/339/2023"
+  },
+  "Epidalea calamita": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo corredor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Episcomitra zonata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eptesicus isabellinus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago hortelano mediterráneo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eptesicus serotinus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago hortelano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eretmochelys imbricata": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga carey",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ericaria brachycarpa": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Ericaria crinita": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Ericaria funkii": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Ericaria mediterranea": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Ericaria selaginoides": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Ericaria zosteroides": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Erigeron frigidus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eriogaster catax": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Erithacus rubecula": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Petirrojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Erodium astragaloides": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Erodium foetidum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Alfileres de roca",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Erodium paularense": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Geranio del Paular, Erodio de Cañamares",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Erodium rupicola": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Alfirelillo de Sierra Nevada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Erosaria spurca": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Errina aspera": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ervum bifoliolatum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Vessa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Eryngium viviparum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Cardillo de laguna, Cardillo vivíparo",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Eubalaena glacialis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Ballena vasca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euchloe bazae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Azufrada ibérca, Blanquiverdosa azufrada",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Euphorbia bourgeana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Tabaiba amarilla de Tenerife",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia bourgeauana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Tabaiba amarilla de Tenerife",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia handiensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cardón de Jandía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia margalidiana": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Lletrera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia mellifera": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Tabaiba de Monteverde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia nevadensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphorbia transtagana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Euphydryas aurinia": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco columbarius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Esmerejón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco eleonorae": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Halcón de Eleonora",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco naumanni": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cernícalo primilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco pelegrinoides": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Halcón tagarote",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Falco peregrinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Halcón peregrino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco subbuteo": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alcotán europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco tinnunculus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cernícalo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Falco vespertinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cernícalo patirrojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Felis silvestris": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Gato montés",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Femeniasia balearica": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Socarrell bord",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ferula latipinna": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Cañaheja herreña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca brigantina": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca donyanae": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca elegans": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca summilusitana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca tuberosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Festuca yvesii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ficedula hypoleuca": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Papamoscas cerrojillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fratercula arctica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Frailecillo atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fringilla coelebs": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pinzón vulgar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fringilla montifringilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pinzón real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fringilla polatzeki": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Pinzón azul de Gran Canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fringilla teydea": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Pinzón azul de Gran Canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fulica cristata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Focha cornuda o moruna",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Fulmarus glacialis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Fulmar boreal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gadoria falukei": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Dragoncito de la Sierra de Gádor",
+    "norma": "Orden TED/452/2025"
+  },
+  "Galemys pyrenaicus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Desmán ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Galeorhinus galeus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Cazón",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Galerida cristata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cogujada común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Galerida theklae": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cogujada montesina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Galium viridiflorum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia atlantica": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia bravoana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto gigante de La Gomera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia galloti": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto tizón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia gomerana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto gigante de La Gomera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia intermedia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto gigante de Tenerife",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia simonyi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto gigante de El Hierro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gallotia stehlini": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto gigante de Gran Canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gaudinia hispanica": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gavia arctica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Colimbo ártico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gavia immer": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Colimbo grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gavia stellata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Colimbo chico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gegenes pumilio": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Veloz balear",
+    "norma": "Orden TED/452/2025"
+  },
+  "Gelidium arbusculum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Gelidio rojo, Mujo rojo",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Gelidium canariense": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Gelidio negro, Mujo negro",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Gelochelidon nilotica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pagaza piconegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Genista benehoavensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Retamón palmero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Genista dorycnifolia": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gentiana angustifolia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Geodia cydonium": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Geomalacus maculosus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Geronticus eremita": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Ibis eremita",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Gibbula nivosa": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Glandora nitida": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Glandora oleifolia": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Glareola pratincola": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Canastera común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Glaucostegus cemiculus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Guitarra común",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Globicephala macrorhynchus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Calderón tropical",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Globicephala melas": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Calderón común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Globularia ascanii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Mosquera de Tamadaba",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Globularia sarcophylla": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Mosquera de Tirajana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gomphus graslinii": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gongolaria abies-marina": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Mujo amarillo",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Gongolaria algeriensis": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria baccata": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria barbata": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria elegans": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria mauritanica": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria montagnei": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria nodicaulis": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria sauvageauana": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gongolaria usneoides": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Gonospermum oshanahanii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Margarza de Guayedra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gonospermum ptarmiciflorum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Magarza plateada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Graellsia isabelae": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Grampus griseus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Calderón gris",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Grus grus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Grulla común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gulosus aristotelis": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Cormorán moñudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gymnogongrus crenulatus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gymnosporia cryptopetala": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Peralillo espino, Artisco",
+    "norma": "Orden TED/452/2025"
+  },
+  "Gymnura altavela": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya mariposa, Mantellina",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Gypaetus barbatus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Quebrantahuesos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gyps fulvus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Buitre leonado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Gyrocaryum oppositiflorum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Nomevés",
+    "norma": "Orden TED/452/2025"
+  },
+  "Gyrocaryum oppositifoliumValdés": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Nomevés",
+    "norma": "Orden TED/452/2025"
+  },
+  "Hackelia deflexa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Haematopus ostralegus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Ostrero euroasiático",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hamatocaulis vernicosus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum alypoides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum bramwelliorum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla de Guinate",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum bystropogophyllum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla peluda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum caput-felis": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum gonzalezferreri": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla de Famara",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum inaguae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla de Inagua",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum juliae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla de Las Cañadas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helianthemum teneriffae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Jarilla de Agache",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helichrysum alucense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Yesquera de Aluce",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helichrysum gossypinum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Yesquera amarilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helichrysum monogynum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Yesquera roja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helosciadium bermejoi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Api d’En Bermejo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Helosciadium repens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hemidactylus turcicus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Salamanquesa rosada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hemorrhois hippocrepis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de herradura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hieraaetus fasciatus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Águila perdicera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hieraaetus pennatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Águila calzada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hieracium pii-fontii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Hieracium queraltense": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Hieracium recoderi": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Hieracium texedense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hieracium vinyasianum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Hierophis viridiflavus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra verdiamarilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Himantoglossum metlesicsianum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Orquídea de Tenerife",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Himantopus himantopus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cigüeñuela común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hippocampus guttulatus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Caballito de mar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hippocampus hippocampus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Caballito de mar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hippolais icterina": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarcero icterino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hippolais pallida": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarcero pálido",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hippolais polyglotta": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarcero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hirundo daurica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Golondrina daúrica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hirundo rustica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Golondrina común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Holcus annuus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Holcus setiglumis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hornera lichenoides": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hydrobates castro": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño de Madeira",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hydrobates leucorhous": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño boreal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hydrobates pelagicus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hydrocharis morsus-ranae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Bocado de rana, Corazones de agua",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Hydrocoloeus minutus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota enana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hydroprogne caspia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pagaza piquirroja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hyla arborea": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Ranita de San Antón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hyla meridionalis": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Ranita meridional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hyla molleri": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Ranita de San Antón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hyles hippophaes": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hymenophyllum wilsonii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hymenostemma pseudanthemis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hymenostemma pseudoanthemis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hyperoodon ampullatus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Zifio calderón septentrional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hypochaeris oligocephala": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Lechuguilla de El Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hypochoeris oligocephala": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Lechuguilla de El Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Hypsugo savii": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago montañero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberodes littoralis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberolacerta aranica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija aranesa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberolacerta aurelioi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija pallaresa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberolacerta bonnali": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija pirenaica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberolacerta cyreni": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija carpetana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberolacerta galani": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija leonesa",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Iberolacerta martinezricai": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija batueca",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Iberolacerta monticola": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija serrana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iberomys cabrerae": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Iberón, Topillo de Cabrera",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Ichthyosaura alpestris": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iduna pallida": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarcero pálido",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ilex perado": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Naranjero salvaje gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Iris boissieri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Isidella elongata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral bambú, Gorgonia articulada",
+    "norma": "Orden TED/452/2025"
+  },
+  "Isoetes boryana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Isoplexis chalcantha": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Crestagallo de Doramas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Isoplexis isabelliana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Crestagallo de pinar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Isurus oxyrinchus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Marrajo común",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Ixobrychus minutus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avetorillo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Jasione lusitanica": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Botón azul",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Jonopsidium savianum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Jungermannia handelii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Juniperus cedrus": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Jurinea fontqueri": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Jynx torquilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Torcecuello",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kallymenia spathulata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kogia breviceps": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Cachalote pigmeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kogia sima": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Cachalote enano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kosteletzkya pentacarpa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kosteletzkya pentacarpos": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kunkeliella canariensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla de Guayadeque",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kunkeliella psilotoclada": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Kunkeliella subsucculenta": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla carnosa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lacerta agilis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto ágil",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lacerta bilineata": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto verde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lacerta schreiberi": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto verdinegro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lagenodelphis hosei": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín de Fraser",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lagopus muta": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Lagópodo alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Laminaria rodriguezii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lamna nasus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Cailón",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Lampetra planeri": {
+    "categoria": "Vulnerable",
+    "grupo": "Peces",
+    "nombre_comun": "Lamprea de arroyo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lanius collurio": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alcaudón dorsirrojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lanius meridionalis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alcaudón real meridional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lanius minor": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Alcaudón chico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lanius senator": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alcaudón común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lappula deflexa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Larus audouinii": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota de Audouin",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Larus canus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota cana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Larus genei": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota picofina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Larus marinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gavión atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Larus melanocephalus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota cabecinegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Larus minutus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota enana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Laserpitium longiradium": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Leiopathes glaberrima": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral negro anaranjado",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Leontodon boryi": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Leontodon microcephalus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lepidium cardamines": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lepidium navasii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Mastuerzo de Gádor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lepidochelys kempii": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga golfina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lepidochelys olivacea": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga olivácea",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Leucoraja circularis": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya falsa vela",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Leucoraja melitensis": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya de Malta",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Leucorrhinia pectoralis": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limoniscus violaceus": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Escarabajo resorte",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium arborescens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva arbórea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium arboreum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva arbórea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium dendroides": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva gigante",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium dodartii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium frutescens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva de El Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium fruticans": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva de El Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium geronense": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Limonium magallufianum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Saladina",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Limonium majoricum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium malacitanum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva malagueña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium ovalifolium": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Acelga salvaje",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium perezii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva de Masca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium perplexum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Saladilla de Peñíscola, Ensopeguera d’Irta",
+    "norma": "Orden TED/452/2025"
+  },
+  "Limonium preauxii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva lunaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium pseudodictyocladum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Saladina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium spectabile": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva de Guelgue",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium sventenii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Siempreviva azul",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limonium vigoi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Limosa lapponica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Aguja colipinta",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Limosa limosa": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Aguja colinegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Linaria tursica": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lindenia tetraphylla": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Linderiella baetica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Gambilusa",
+    "norma": "Orden TED/452/2025"
+  },
+  "Lindernia procumbens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lissotriton boscai": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lissotriton helveticus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón palmeado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lithodora nitida": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lithophaga lithophaga": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "Mediterráneo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lithophyllum byssoides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Locustella luscinioides": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Buscarla unicolor",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Locustella naevia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Buscarla pintoja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lophelia pertusa": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral blanco duro",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Lophophanes cristatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Herrerillo capuchino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lopinga achine": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus berthelotii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Picopaloma",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus callis-viridis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Corazoncillo del Andén Verde",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus eremiticus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Picocernícalo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus gomerythus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Pico paloma gomero",
+    "norma": "Orden TED/452/2025"
+  },
+  "Lotus kunkelii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Yerbamuda de Jinámar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus maculatus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Pico de El Sauzal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus pyranthus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Pico de Fuego",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lotus spectabilis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Trébol de risco rosado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Loxia curvirostra": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Piquituerto común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lucanus cervus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lullula arborea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Totovía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Luria lurida": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Luronium natans": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Luscinia megarhynchos": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Ruiseñor común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Luscinia svecica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pechiazul",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lutra lutra": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Nutria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lycaena helle": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Manto violeta",
+    "norma": "Orden TED/452/2025"
+  },
+  "Lycopodina hypogea": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lynx pardinus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Lince ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lysimachia minoricensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Lisimaquia menorquina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lythophyllum byssoides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Lythrum flexuosum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Jopillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Macromia splendens": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Libélula",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Macroprotodon brevis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de cogulla occidental",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Macroprotodon mauritanicus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de cogulla oriental",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Macrothele calpeiana": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Maculinea arion": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Maculinea nausithous": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Hormiguera oscura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Madrepora oculata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral blando frágil",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Maiorerus randoi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Opilión cavernícola majorero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Margaritifera auricularia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Margaritona",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Margaritifera margaritifera": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Náyade de río, Madreperla de río",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Marmaronetta angustirostris": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Cerceta pardilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Marsilea batardae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Marsilea quadrifolia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Trébol de cuatro hojas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Marsilea strigosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Marsupella profunda": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mauremys leprosa": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Galápago leproso",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Medicago citrina": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Mielga real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Megaptera novaeangliae": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Yubarta",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Melanocorypha calandra": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Calandria común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Merops apiaster": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Abejaruco común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mesoplodon densirostris": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Zifio de Blainville",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mesoplodon europaeus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Zifio de Gervais",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mesoplodon mirus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Zifio de True",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mesotriton alpestris": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Micromeria glomerata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Tomillo de Taganana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Micromeria leucantha": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Tomillón blanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Micropyropsis tuberosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Microtus cabrerae": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Iberón, Topillo de Cabrera",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Milvus migrans": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Milano negro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Milvus milvus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Milano real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Miniopterus schreibersii": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de cueva",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mitra zonata": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mobula mobular": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Manta",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Moehringia fontqueri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Monachus monachus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Foca monje del Mediterráneo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Monanthes wildpretii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Pelotilla de Chinamada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Monilearia arguineguinensis": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Caracol chato de Arguineguín",
+    "norma": "Orden TED/452/2025"
+  },
+  "Monticola saxatilis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Roquero rojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Monticola solitarius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Roquero solitario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Montifringilla nivalis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gorrión alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Morella rivas-martinezii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Faya herreña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Morlockia ondinae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Remípedo de los jameos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Morus bassanus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Alcatraz atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Motacilla alba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lavandera blanca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Motacilla cinerea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lavandera cascadeña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Motacilla flava": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lavandera boyera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Munidopsis polymorpha": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Jameíto",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Muscicapa striata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Papamoscas gris",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mustela erminea": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Armiño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Mustela lutreola": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Visón europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis alcathoe": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero bigotudo pequeño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis bechsteinii": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero forestal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis blythii": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero mediano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis capaccinii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero patudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis crypticus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero críptico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis daubentonii": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero ribereño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis emarginatus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de Geoffroy o de oreja partida",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis escalerai": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis myotis": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis mystacinus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero bigotudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis nattereri": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myotis punicus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago ratonero moruno",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Myrica rivas-martinezii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Faya herreña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nanozostera noltei": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Seba de mar estrecha, Seba fina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nanozostera noltii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Seba de mar estrecha, Seba fina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus asturiensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Narciso de Asturias",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus cavanillesii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus cyclamineus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus fernandesii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus humilis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus longispathus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus minor": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Narciso de Asturias",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus nevadensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus nobilis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus pseudonarcissus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus triandrus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Narcissus viridiflorus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Naria spurca": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Natrix helvetica": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de collar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Natrix maura": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra viperina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Natrix natrix": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de collar",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Naufraga balearica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Naufraga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Neophron percnopterus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Alimoche común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Normania nava": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nucella lapillus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Numenius arquata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarapito real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Numenius phaeopus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarapito trinador",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Numenius tenuirostris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zarapito fino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nuphar lutea": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Nenúfar amarillo pequeño",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Nuphar pumila": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Nenúfar amarillo pequeño",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Nyctalus lasiopterus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Nóctulo grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nyctalus leisleri": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Nóctulo pequeño",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nyctalus noctula": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Nóctulo mediano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Nycticorax nycticorax": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Martinete común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oceanodroma castro": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño de Madeira",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oceanodroma leucorhoa": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño boreal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ocypode cursor": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Odontaspis ferox": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Solrayo",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Odontites granatensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Odontites viscosus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oenanthe hispanica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Collalba rubia",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oenanthe leucura": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Collalba negra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oenanthe oenanthe": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Collalba gris",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Omphalodes littoralis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Onopordum carduelinum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cardo de Tenteniguada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Onopordum carduelium": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cardo de Tenteniguada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Onopordum nogalesii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cardo de Jandía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ophidiaster ophidianus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Estrella púrpura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ophioglossum polyphyllum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Lenguaserpiente foliosa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ophiogomphus cecilia": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Libélula",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Opisognathus forficatus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Orchis provincialis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Orcinus orca": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Orca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oriolus oriolus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Oropéndola",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ornithogalum reverchonii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Orobanche densiflora": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Orthotrichum rogeri": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Osmoderma eremita": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Otis tarda": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avutarda común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Otus scops": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Autillo europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oxygastra curtisii": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Libélula",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Oxynotus centrina": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Cerdo marino",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Oxyura leucocephala": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Malvasía cabeciblanca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pachylasma giganteum": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Paeonia cambessedesii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pandion haliaetus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Águila pescadora",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Panulirus echinatus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Langosta herreña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Panurus biarmicus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Bigotudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Parachondrostoma arrigonis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Loína",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Parantipathes larix": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Coral negro mediterráneo",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Parnassius apollo": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Parnassius mnemosyne": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Parolinia schizogynoides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Dama de Argaga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Parus major": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carbonero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Patella aspera": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Patella candei": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Lapa majorera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Patella ferruginea": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Lapa ferruginea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Patella ulyssiponensis": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pedicularis comosa": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Pelagodroma marina": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Paíño pechialbo, Bailarín",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pellaea calomelanos": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Pelobates cultripes": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapo de espuelas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pelodytes ibericus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapillo moteado ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pelodytes punctatus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Sapillo moteado común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Perdix perdix": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Perdiz pardilla",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Pericallis appendiculata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Alamillo de Doramas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pericallis hadrosoma": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Flor de mayo leñosa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Periparus ater": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carbonero garrapinos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pernis apivorus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Halcón abejero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petalophyllum ralfsii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petrobiona massiliana": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Petrocoptis grandiflora": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petrocoptis montsicciana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petrocoptis pseudoviscosa": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petromyzon marinus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Lamprea marina",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Petronia petronia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gorrión chillón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Peucedanum schottii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Phaethon aethereus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Rabijunco etéreo",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Phalacrocorax aristotelis": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Cormorán moñudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phalaropus fulicarius": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Faloropo picogrueso",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phalaropus lobatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Faloropo picofino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phengaris arion": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phengaris nausithous": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Hormiguera oscura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Philomachus pugnax": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Combatiente",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phocoena phocoena": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Marsopa común",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Phoenicopterus roseus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Flamenco común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phoenicurus ochruros": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Colirrojo tizón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phoenicurus phoenicurus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Colirrojo real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pholas dactylus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus bonelli": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero papialbo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus canariensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus collybita": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus ibericus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero ibérico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus sibilatrix": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero silbador",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Phylloscopus trochilus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mosquitero musical",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Physeter macrocephalus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Cachalote",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Picris cupuligera": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Picris willkommii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Picus sharpei": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pito real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Picus viridis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pito real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pilularia minuta": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pimelia granulicollis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Pimelia de las arenas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pinguicula nevadensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pinna nobilis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Nacra común",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Pinna rudis": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pipistrellus kuhlii": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de borde claro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pipistrellus maderensis": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciálago de Madeira",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pipistrellus nathusii": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de Nathusius",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pipistrellus pipistrellus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pipistrellus pygmaeus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago de Cabrera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plantago algarbiensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plantago cornuti": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Plantago cornutii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Plantago famarae": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Pinillo de Famara",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Platalea leucorodia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Espátula común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plecotus auritus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago orejudo dorado o septentrional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plecotus austriacus": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago orejudo gris o meridional",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plecotus macrobullaris": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago orejudo alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plecotus teneriffae": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago orejudo canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plectrophenax nivalis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Escribano nival",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Plegadis falcinellus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Morito común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pleudia herbanica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Conservilla majorera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pleurodeles waltl": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Gallipato",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pluvialis apricaria": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlito dorado europeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pluvialis squatarola": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chorlito gris",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis lilfordi": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis muralis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija roquera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis pityusensis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija de las Pitiusas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis sicula": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija italiana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis siculus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija italiana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podarcis vaucheri": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija andaluza",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podiceps auritus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zampullín cuellirrojo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podiceps cristatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Somormujo lavanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Podiceps nigricollis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zampullín cuellinegro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Poecile palustris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Carbonero palustre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Polygala vayredae": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Polygaloides vayredae": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Polyommatus golgus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Niña de Sierra Nevada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Porphyrio porphyrio": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Calamón común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Porzana parva": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Polluela bastarda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Porzana porzana": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Polluela pintoja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Porzana pusilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Polluela chica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Posidonia oceanica": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Posidonia oceánica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pristis pectinata": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Pez sierra",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Pristis pristis": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Pez sierra, Pejesierra",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Proserpinus proserpina": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Prunella collaris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Acentor alpino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Prunella modularis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Acentor común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Psammodromus algirus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija colilarga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Psammodromus hispanicus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija cenicienta",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pseudorca crassidens": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Falsa orca",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Psilotum nudum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Helecho escoba",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pteris incompleta": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Helecha de monte",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pterocles alchata": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Ganga común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pterocles orientalis": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Ortega",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ptilophora dentata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ptilophora mediterranea": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ptyonoprogne rupestris": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avión roquero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puccinellia pungens": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus assimilis": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela chica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus baroli": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela chica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus gravis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela capirotada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus griseus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela sombría",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus mauretanicus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus puffinus": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela pichoneta",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Puffinus yelkouan": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pardela mediterránea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pulicaria burchardii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Dama",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pyrgus cinarae": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Ajedrezada haltera",
+    "norma": "Orden TED/452/2025"
+  },
+  "Pyrgus sidae": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Ajedrezada amarilla",
+    "norma": "Orden TED/452/2025"
+  },
+  "Pyrrhocorax graculus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chova piquigualda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pyrrhocorax pyrrhocorax": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chova piquirroja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Pyrrhula pyrrhula": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Camachuelo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rana dalmatina": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Rana ágil",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rana iberica": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Rana patilarga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rana pyrenaica": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Rana pirenaica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rana temporaria": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Rana bermeja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ranella olearia": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ranella olearium": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ranunculus parnassifolius": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ranunculus weyleri": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Botó d’or",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ranunculus weylerii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Botó d’or",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Recurvirostra avosetta": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avoceta común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Regulus ignicapilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Reyezuelo listado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Regulus ignicapillus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Reyezuelo listado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Regulus regulus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Reyezuelo sencillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Remiz pendulinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pájaro moscón",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Reseda jacquinii": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Rhaponticum canariense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cardo de plata",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinechis scalaris": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de escalera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinobatos cemiculus": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Guitarra común",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Rhinobatos rhinobatos": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Guitarra barbanegra",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Rhinolophus euryale": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago mediterrráneo de herradura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinolophus ferrumequinum": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago grande de herradura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinolophus hipposideros": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago pequeño de herradura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinolophus mehelyi": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago mediano de herradura",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhinoptera marginata": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Gavilán lusitánico, Pez arzobispo.",
+    "norma": "Orden TED/452/2025"
+  },
+  "Rhopalomesites euphorbiae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Picudo de la tabaiba de monte",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rhopalomesites proximus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Picudo de la tabaiba de monte",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Riella helicophylla": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Riparia riparia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Avión zapador",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rissa tridactyla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Gaviota tridáctila",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rivasgodaya nervosa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Gildana peluda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rosalia alpina": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rosmarinus tomentosus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rostroraja alba": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "Raya blanca, Raya bramante",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Rumex rupestris": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Labaça de ribeira",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Rupicapnos africana": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Conejitos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ruta microcarpa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Ruda gomera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saga pedo": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Salamandra algira": {
+    "categoria": "Vulnerable",
+    "grupo": "Anfibios",
+    "nombre_comun": "Salamandra norteafricana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Salaria fluviatilis": {
+    "categoria": "Vulnerable",
+    "grupo": "Peces",
+    "nombre_comun": "Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Salariopsis fluviatilis": {
+    "categoria": "Vulnerable",
+    "grupo": "Peces",
+    "nombre_comun": "Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Salvia herbanica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Conservilla majorera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sambucus nigra": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Saúco canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sambucus palmensis": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Saúco canario",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Santolina elegans": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Santolina semidentata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sarcocapnos baetica": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Zapaticos de la Virgen",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sarcocapnos integrifolia": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sarcocapnos speciosa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Hierba de la Lucía",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sarcophagus pipetta": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sarcotragus foetidus": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Esponja negra",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Sarcotragus pipetta": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sargassum acinarium": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sargassum flavifolium": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sargassum hornschuchii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sargassum trichocarpum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Savalia savaglia": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saxicola dacotiae": {
+    "categoria": "Vulnerable",
+    "grupo": "Aves",
+    "nombre_comun": "Tarabilla canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saxicola rubetra": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Tarabilla norteña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saxicola rubicola": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Tarabilla europea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saxicola torquata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Tarabilla europea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Saxifraga vayredana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Schilderia achatidea": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Schimmelmannia schousboei": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Scorzoneroides microcephala": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Se incluyen": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Senecio elodes": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cineraria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Senecio hermosae": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Turgiate gomero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Senecio nevadensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Serinus citrinella": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Verderón serrano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Seseli farrenyi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Seseli farrenyii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Seseli intricatum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis cystosiphon": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Chajorra de Tamaimo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis discolor": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Salvia blanca de Doramas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis glauca": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis infernalis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Chajorra de Adeje",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis javalambrensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis marmorea": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Chajorra de Aluce",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis pungens": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideritis serrata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideroxylon canariense": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Marmolán",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sideroxylon marmulano": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Marmolán",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Silene hifacensis": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Silene de Ifach",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Silene mariana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Silene nocteolens": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Canutillo del Teide",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Silene sennenii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Sisymbrium cavanillesianum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sitta europaea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Trepador azul",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Solanum lidii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Pimentero de Temisas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Solanum vespertilio": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Rejalgadera de Doramas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Soldanella villosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Solenostoma handelii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sonchus gandogeri": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Cerrajón de El Golfo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sparganium natans": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Esparganio acuático, Platanaria de agua",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Speleonectes ondinae": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Remípedo de los jameos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sphaerococcus rhizophylloides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sphagnum pylaesii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sphagnum pylaisii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sphyrna couardi": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Sphyrna lewini": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Sphyrna mokarran": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Sphyrna tudes": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Sphyrna zygaena": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Sphyrnidae Bonaparte,1840": {
+    "categoria": "LESRPE",
+    "grupo": "Peces",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Spinus spinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lúgano",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Spiranthes aestivalis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Squalius palaciosi": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Bogardilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Squatina aculeata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Angelote espinoso",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Squatina oculata": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Angelote manchado",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Squatina squatina": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Angelote",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Stachys maritima": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Stemmacantha cynaroides": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cardo de plata",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Stenella coeruleoalba": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín listado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Stenella frontalis": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín moteado del Atlántico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Steno bredanensis": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín de dientes rugosos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Stercorarius parasiticus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Págalo parásito",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Stercorarius pomarinus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Págalo pomarino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Stercorarius skua": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Págalo grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna albifrons": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrancito común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna bengalensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán bengalí",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Sterna caspia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Pagaza piquirroja",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna dougallii": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán rosado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna hirundo": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna paradisaea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán ártico",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sterna sandvicensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán patinegro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sternula albifrons": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrancito común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Steromphala nivosa": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Strix aluco": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Cárabo común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sventenia bupleuroides": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Lechugón de Sventenius",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia atricapilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca capirotada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia balearica": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca sarda o balear",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia borin": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca mosquitera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia cantillans": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca carrasqueña",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia communis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca zarcera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia conspicillata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca tomillera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia curruca": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca zarcerilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia hortensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca mirlona",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia melanocephala": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca cabecinegra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Sylvia undata": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Curruca rabilarga",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tachybaptus ruficollis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Zampullín común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tachymarptis melba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Vencejo real",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tadarida teniotis": {
+    "categoria": "LESRPE",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Murciélago rabudo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tadorna ferruginea": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Tarro canelo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tadorna tadorna": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Tarro blanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tanacetum oshanahanii": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Margarza de Guayedra",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tanacetum ptarmiciflorum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Magarza plateada",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tarentola angustimentalis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Perenquén majorero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tarentola boettgeri": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Perenquén de Gran Canaria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tarentola delalandii": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Perenquén común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tarentola gomerensis": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Perenquén gomero ó Pracan",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tarentola mauritanica": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Salamanquesa común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Teline nervosa": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Gildana peluda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Teline rosmarinifolia": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Gildana del Risco Blanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Teline salsoloides": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Retamón de El Fraile",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tenarea tortuosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Tephroseris elodes": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Cineraria",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Testudo graeca": {
+    "categoria": "Vulnerable",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga mora",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Testudo hermanni": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Tortuga mediterránea",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tethya Lamarck,": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Tethya aurantium": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Tethya citrina": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Tethya irregularis": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Tethya sp.": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Tetraclinis articulata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tetrao urogallus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Urogallo común",
+    "norma": "Orden TED/339/2023"
+  },
+  "Tetrastes bonasia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Grévol",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Tetrax tetrax": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Sisón común",
+    "norma": "Orden TED/339/2023"
+  },
+  "Teucrium charidemi": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Teucrium lepicephalum": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Teucrium turredanum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thalasseus bengalensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán bengalí",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Thalasseus sandvicensis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Charrán patinegro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thesium canariense": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla de Guayadeque",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thesium psilotocladum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thesium subsucculentum": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Escobilla carnosa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thorella verticillatinundata": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thymelaea broteriana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Pajarera portuguesa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thymelaea lythroides": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thymus albicans": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Almoradux, Mejorana",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thymus carnosus": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Thymus loscosii": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Tomillo sanjuanero",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tichodroma muraria": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Treparriscos",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Timon lepidus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto ocelado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Timon tangitanus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagarto ocelado del Atlas",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Titanoderma ramosissimum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Titanoderma trochanter": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/75/2012"
+  },
+  "Todas las": {
+    "categoria": "LESRPE",
+    "grupo": "",
+    "nombre_comun": "",
+    "norma": ""
+  },
+  "Tolpis glabrescens": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "Lechuguilla de Chinobre",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tonna galea": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Tonel",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Trichomanes speciosum": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Helecho de cristal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa erythropus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Archibebe oscuro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa glareola": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Andarríos bastardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa nebularia": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Archibebe claro",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa ochropus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Andarríos grande",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa stagnatilis": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Archibebe fino",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tringa totanus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Archibebe común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tritia tingitana": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Caracolilla de Tánger",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Triturus marmoratus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón jaspeado",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Triturus pygmaeus": {
+    "categoria": "LESRPE",
+    "grupo": "Anfibios",
+    "nombre_comun": "Tritón pigmeo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Troglodytes troglodytes": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Chochín",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Trogonophis wiegmanni": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebrilla mora",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Turdus torquatus": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Mirlo capiblanco",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Turnix sylvatica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Torillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Turnix sylvaticus": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Aves",
+    "nombre_comun": "Torillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tursiops truncatus": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Delfín mular",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Tyto alba": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Lechuza común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Unio mancus": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Náyade mediterránea",
+    "norma": "Orden AAA/1351/2016"
+  },
+  "Unio ravoisieri": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Náyade del noroeste",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Unio tumidiformis": {
+    "categoria": "Vulnerable",
+    "grupo": "Invertebrados",
+    "nombre_comun": "Náyade túmida",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Upupa epops": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Abubilla",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Uria aalge": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Arao común",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ursus arctos": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Oso pardo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Valencia hispanica": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Peces",
+    "nombre_comun": "Samaruc",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vandenboschia speciosa": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Helecho de cristal",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vella aspera": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Asperillo",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Veronica micrantha": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vertigo angustior": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vertigo moulinsiana": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vicia bifoliolata": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "Vessa",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Viola cazorlensis": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Viola cheiranthifolia": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Violeta del Teide",
+    "norma": "Orden TED/1126/2020"
+  },
+  "Viola jaubertiana": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vipera latastei": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Víbora hocicuda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Vulpia fontquerana": {
+    "categoria": "Vulnerable",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Woodsia pulchella": {
+    "categoria": "En peligro de extinción",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Orden AAA/1771/2015"
+  },
+  "Woodwardia radicans": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "Píjara",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zamenis longissimus": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de Esculapio",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zamenis scalaris": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Culebra de escalera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zapornia parva": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Polluela bastarda",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zapornia pusilla": {
+    "categoria": "LESRPE",
+    "grupo": "Aves",
+    "nombre_comun": "Polluela chica",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Ziphius cavirostris": {
+    "categoria": "Vulnerable",
+    "grupo": "Mamíferos",
+    "nombre_comun": "Zifio de Cuvier, Zifio común",
+    "norma": "Orden TEC/596/2019"
+  },
+  "Zonaria pyrum": {
+    "categoria": "LESRPE",
+    "grupo": "Invertebrados",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zootoca vivipara": {
+    "categoria": "LESRPE",
+    "grupo": "Reptiles",
+    "nombre_comun": "Lagartija de turbera",
+    "norma": "Real Decreto 139/2011"
+  },
+  "Zostera marina": {
+    "categoria": "LESRPE",
+    "grupo": "Flora",
+    "nombre_comun": "",
+    "norma": "Real Decreto 139/2011"
+  }
+}
